@@ -5,11 +5,11 @@
 Néccéssite la bibliothèques Python Requests</br>
         <b>pip install requests</b>
 
-Pour l'execution sur mobile, installer l'application <b>Termux</b> qui permet d'emuler un terminal linux, puis installer Python et git:</br>
+Pour l'exécution sur mobile, installer l'application <b>Termux</b> qui permet d'émuler un terminal Linux, puis installer Python et git:</br>
 	<b>apt install python</b></br>
 	<b>apt install git</b></br>
 	
-Créer un dossier <b>.shortcut</b> dans le répertoire de travail ~ ($HOME) puis créer un scrit bash qui lance le programme :
+Créer un dossier <b>.shortcut</b> dans le répertoire de travail ~ ($HOME) puis créer un script bash qui lance le programme :
 
 ![213086925_334486421636158_4467110538871288191_n](https://user-images.githubusercontent.com/34254490/125056182-4283e600-e0a8-11eb-99a5-38db292af786.jpg)
 
