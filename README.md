@@ -2,6 +2,8 @@
 
 <h4>Application qui permet grâce à la plaque d'immatriculation d'une voiture, de savoir si vous pouvez gagner en faisant une course. Utile pour les départs au feu rouge et les péages.</h4>
 
+<b>Testé et utilisé sur TERMUX</b> 
+
 Néccéssite la bibliothèques Python Requests</br>
         <b>pip install requests</b>
 
