@@ -41,13 +41,13 @@ elif int(choice) < i:
             gen = spec
         elif '.' in spec:
             size = spec
-        elif 'cv' in spec:
+        elif 'cv' in spec or 'CV' in spec:
             hp = spec
     print("\nC'est un(e) " + model + "de " + hp)
     f = open(path + "/" + filenames[int(choice)-1], "r")
     mycar = f.read()
     for spec in mycar.split():
-         if 'cv' in spec:
+         if 'cv' in spec or 'CV' in spec:
             myhp = spec
     hp = int(hp[:-2])
     myhp = int(myhp[:-2])
